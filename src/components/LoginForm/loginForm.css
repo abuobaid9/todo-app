@@ -1,0 +1,43 @@
+.card-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(90deg, rgb(26, 23, 46) 0%, rgb(64, 67, 90) 100%);
+  width: 98%;
+  height: 400px;
+  margin-left: 10px;
+  padding: 20px;
+}
+
+.form-login{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2px;
+  width: 200px;
+}
+
+.button {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2px;
+  padding: 2px;
+  width: 100px;
+  height: 25px;
+}
+
+input {
+  width: 200px;
+}
+
+label {
+  width: 100%;
+}
