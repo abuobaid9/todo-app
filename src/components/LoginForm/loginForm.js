@@ -1,5 +1,5 @@
 import React, { useContext, useState } from "react";
-import "./loginForm.css"
+import "./log.scss"
 import { LoginContext } from "../context/Login";
 import { When } from "react-if";
 
